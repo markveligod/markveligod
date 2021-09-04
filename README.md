@@ -17,6 +17,7 @@ how to profile and build a game.
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
 | Pirates Puzzle |01/06/2021 - and now| Own project for a mobile game for the android platform on the UE engine |
+| Sa(N)D Hope |26/08/2021 - 02/09/2021| Game development for the game jam "Epic MegaJam 2021". Link to GitHub Repo: [Click](https://github.com/markveligod/epicjam-2021). Link to Itch io: [Click](https://veligodstudio.itch.io/sand-hope).|
 | Mafia Revenge | 24/04/2021 - 27/04/2021 | Game development for the game jam "Ludum Dare 48". Link to GitHub Repo: [Click](https://github.com/markveligod/ludumedare48).  Link to Ludum Dare: [Click](https://ldjam.com/events/ludum-dare/48/mafia-revenge).  Link to Itch io: [Click](https://veligodstudio.itch.io/mafia-revenge).  |
 | The Mad Mayor | 01/04/2021 - 04/04/2021 | Game development for the game jam "Siberian Game Jam". Link to GitHub Repo: [Click](https://github.com/markveligod/SiberianGameJamAprill2021). Link to Itch io: [Click](https://veligodstudio.itch.io/themadmayor). |
 | Shoot the map | 01/12/2020 - 30/03/2021 | A training project within the course on Udemy - Unreal Engine — полное руководство по разработке на С++. Link to GitHub Repo: [Click](https://github.com/markveligod/CoursesUnrealEngine). Link to Itch io: [Click](https://veligodstudio.itch.io/shoot-the-map). |
