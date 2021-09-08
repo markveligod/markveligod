@@ -16,6 +16,7 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
+| Voxel Puzzle |05/09/2021 - and now| Own project for a mobile game for the android platform on the UE engine |
 | Pirates Puzzle |01/06/2021 - and now| Own project for a mobile game for the android platform on the UE engine |
 | Sa(N)D Hope |26/08/2021 - 02/09/2021| Game development for the game jam "Epic MegaJam 2021". Link to GitHub Repo: [Click](https://github.com/markveligod/epicjam-2021). Link to Itch io: [Click](https://veligodstudio.itch.io/sand-hope).|
 | Mafia Revenge | 24/04/2021 - 27/04/2021 | Game development for the game jam "Ludum Dare 48". Link to GitHub Repo: [Click](https://github.com/markveligod/ludumedare48).  Link to Ludum Dare: [Click](https://ldjam.com/events/ludum-dare/48/mafia-revenge).  Link to Itch io: [Click](https://veligodstudio.itch.io/mafia-revenge).  |
