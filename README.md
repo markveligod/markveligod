@@ -33,15 +33,15 @@ how to profile and build a game.
 ## List of PET-projects in С/C++
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| ft_irc | 15/12/2020 - 08/02/2021 | Teamwork on the development of an IRC chat with an interactive client interface. Link to GitHub Repo: [Click](https://github.com/markveligod/ft_irc). |
-| ft_containers | 30/10/2020 - 02/12/2020 | Own implementation of containers from the STL library according to the C++98 standard. Link to GitHub Repo: [Click](https://github.com/markveligod/ft_containers). |
-| cpp_modules | 20/09/2020 - 30/10/2020 | A short course on learning the basics of C++. Link to GitHub Repo: [Click](https://github.com/markveligod/cpp_modules). |
-| cpp_copliens_form | 10/10/2020 - 12/10/2020 | A small program for the implementation of the pattern Copliens form. Link to GitHub Repo: [Click](https://github.com/markveligod/cpp_copliens_form). |
-| philosophers- | 30/08/2020 - 20/09/2020 | A project to study multithreading based on the [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to GitHub Repo: [Click](https://github.com/markveligod/philosophers-). |
-| minishell | 23/07/2020 - 24/08/2020 | Teamwork to develop your own shell for the MAC system. Link to GitHub Repo: [Click](https://github.com/markveligod/minishell). |
-| ft_printf | 18/05/2020 - 24/05/2020 | Native implementation of the standard `printf` function. Link to GitHub Repo: [Click](https://github.com/markveligod/ft_printf). |
-| GNL | 07/05/2020 - 15/05/2020 | A small program for reading information from a file. Link to GitHub Repo: [Click](https://github.com/markveligod/GNL). |
-| libft | 29/04/2020 - 14/05/2020 | Native implementation of the library of standard functions in the C language. Link to GitHub Repo: [Click](https://github.com/markveligod/libft). |
+| ft_irc | 15/12/2020 - 08/02/2021 | Teamwork on the development of an IRC chat with an interactive client interface. Link to [GitHub Repo](https://github.com/markveligod/ft_irc). |
+| ft_containers | 30/10/2020 - 02/12/2020 | Own implementation of containers from the STL library according to the C++98 standard. Link to [GitHub Repo](https://github.com/markveligod/ft_containers). |
+| cpp_modules | 20/09/2020 - 30/10/2020 | A short course on learning the basics of C++. Link to [GitHub Repo](https://github.com/markveligod/cpp_modules). |
+| cpp_copliens_form | 10/10/2020 - 12/10/2020 | A small program for the implementation of the pattern Copliens form. Link to [GitHub Repo](https://github.com/markveligod/cpp_copliens_form). |
+| philosophers- | 30/08/2020 - 20/09/2020 | A project to study multithreading based on the [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to [GitHub Repo](https://github.com/markveligod/philosophers-). |
+| minishell | 23/07/2020 - 24/08/2020 | Teamwork to develop your own shell for the MAC system. Link to [GitHub Repo](https://github.com/markveligod/minishell). |
+| ft_printf | 18/05/2020 - 24/05/2020 | Native implementation of the standard `printf` function. Link to [GitHub Repo](https://github.com/markveligod/ft_printf). |
+| GNL | 07/05/2020 - 15/05/2020 | A small program for reading information from a file. Link to [GitHub Repo](https://github.com/markveligod/GNL). |
+| libft | 29/04/2020 - 14/05/2020 | Native implementation of the library of standard functions in the C language. Link to [GitHub Repo](https://github.com/markveligod/libft). |
 
 
 ## Certificates
@@ -53,4 +53,5 @@ how to profile and build a game.
 <img src="https://www.codewars.com/users/markveligod/badges/large">
 
 ## Github stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=markveligod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=markveligod&theme=github)
+![trophy](https://github-profile-trophy.vercel.app/?username=markveligod&theme=onedark)
