@@ -1,19 +1,19 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Mark, I study computer graphics and game development.  
 I can program in C++/BP under the Unreal Engine 4/5:  
-* AI: behavior trees, tasks, decorators, services, EQS;  
+* AI: programming behavior trees, tasks, decorators, services, EQS;  
 * UMG: programming user interfaces;  
-* VFX: Creating Niagara Special Effects;  
+* VFX: programming Niagara Special Effects and Particle System;  
 * Animation programming;  
 * Writing readable, maintainable, yet fast and efficient code;  
 * Mathematical magic for solving many common coding problems;  
-* Coding standards and best practices;  
 * Setup Unreal Engine both from stock build and from source code;  
-* Using Jenkins to automate processes;  
-* Complex vector mathematics for working effectively in a 3D game world;
+* Using [Jenkins](https://www.jenkins.io) to automate processes;  
+* Complex vector mathematics for working effectively in a 3D game world;  
+* Creating automation tests;  
 * Audio programming to create and use sound cues, classes and mixers.  
 
-I know the architecture of the Unreal Engine, the main methods of refactoring,
+I know the base architecture of the Unreal Engine, the main methods of refactoring,
 how to profile and build a game.
 
 ## Skills
