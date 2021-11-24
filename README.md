@@ -53,5 +53,4 @@ how to profile and build a game.
 <img src="https://www.codewars.com/users/markveligod/badges/large">
 
 ## Github stats
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=markveligod&theme=github)
 ![trophy](https://github-profile-trophy.vercel.app/?username=markveligod&theme=onedark)
