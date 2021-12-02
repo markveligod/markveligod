@@ -21,8 +21,8 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| Voxel Puzzle |05/09/2021 - and now| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. |
-| Pirate Puzzle |01/06/2021 - and now| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. |
+| Test Your Dream |05/09/2021 - and now| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as UMG developer programmer and DevOps |
+| Pirate Puzzle |01/06/2021 - and now| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as a solo developer programmer. |
 | Baby Atom | 02/10/2021 - 04/10/2021 | Game development for the game jam "Ludum Dare 49". Link to [GitHub Repo](https://github.com/markveligod/LudumDare49).  Link to [Ludum Dare](https://ldjam.com/events/ludum-dare/49/baby-atom).  Link to [Itch io](https://markveligod.itch.io/baby-atom).  |
 | Mafia Revenge | 24/04/2021 - 27/04/2021 | Game development for the game jam "Ludum Dare 48". Link to [GitHub Repo](https://github.com/markveligod/ludumedare48).  Link to  [Ludum Dare](https://ldjam.com/events/ludum-dare/48/mafia-revenge).  Link to [Itch io](https://markveligod.itch.io/mafia-revenge).  |
 | The Mad Mayor | 01/04/2021 - 04/04/2021 | Game development for the game jam "Siberian Game Jam". Link to [GitHub Repo](https://github.com/markveligod/SiberianGameJamAprill2021). Link to [Itch io](https://markveligod.itch.io/themadmayor). |
@@ -53,4 +53,5 @@ how to profile and build a game.
 <img src="https://www.codewars.com/users/markveligod/badges/large">
 
 ## Github stats
-![trophy](https://github-profile-trophy.vercel.app/?username=markveligod&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=markveligod&theme=onedark)  
+![](https://komarev.com/ghpvc/?username=markveligod&color=grey)
