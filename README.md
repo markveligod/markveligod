@@ -22,6 +22,7 @@ how to profile and build a game.
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
 | - |17/01/2022 - now| UE developer in [GFA Games](https://gfagames.com) |
+| Rising Signal | 30/04/2022 - 03/05/2022 | Game development for the game jam "Siberian Game Jam". Link to [GitHub Repo](https://github.com/markveligod/SibJam2022). Link to [Itch io](https://kolendar.itch.io/rising-signal). |
 | Test Your Dream |05/09/2021 - 01.03.2022(Left the team)| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as UMG developer programmer and DevOps |
 | Pirate Puzzle |01/06/2021 - 15/12/2021| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as a solo developer programmer. Link to [Google Play Market](https://play.google.com/store/apps/details?id=com.werfestsoftware.PiratePuzzle). Link to [Itch io](https://werfest.itch.io/pirate-puzzle) |
 | Baby Atom | 02/10/2021 - 04/10/2021 | Game development for the game jam "Ludum Dare 49". Link to [GitHub Repo](https://github.com/markveligod/LudumDare49).  Link to [Ludum Dare](https://ldjam.com/events/ludum-dare/49/baby-atom).  Link to [Itch io](https://markveligod.itch.io/baby-atom).  |
