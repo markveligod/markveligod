@@ -21,7 +21,10 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| - |17/01/2022 - now| UE developer in [GFA Games](https://gfagames.com) |
+| Pioner |17/01/2022 - present| UE developer in [GFA Games](https://gfagames.com) |
+| Pirate Clicker |01/09/2022 - present| Own game project for development on the Android platform. Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker)|
+| Math Content UE |18/08/2022 - present| Content with a visual representation of mathematical calculations [GitHub-Repo](https://github.com/markveligod/MathContentUE)|
+| Rising Signal | 30/04/2022 - 03/05/2022 | Game development for the game jam "Siberian Game Jam". Link to [GitHub Repo](https://github.com/markveligod/SibJam2022.git). Link to [Itch io](https://kolendar.itch.io/rising-signal).|
 | Test Your Dream |05/09/2021 - 01.03.2022(Left the team)| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as UMG developer programmer and DevOps |
 | ShooterBigger | 05/01/2022 - 23/01/2022 | First person shooter in C++. Link to [GitHub Repo](https://github.com/markveligod/ShooterBigger). [Video Demonstration](https://youtu.be/115vhrPW0No). Link to [Itch io](https://markveligod.itch.io/shooter-bigger)|
 | Pirate Puzzle |01/06/2021 - 15/12/2021| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as a solo developer programmer. Link to [Google Play Market](https://play.google.com/store/apps/details?id=com.werfestsoftware.PiratePuzzle). Link to [Itch io](https://werfest.itch.io/pirate-puzzle) |
