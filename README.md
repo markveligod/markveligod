@@ -22,7 +22,7 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| Pioner |17/01/2022 - present| UE developer in [GFA Games](https://gfagames.com) |
+| Pioner |17/01/2022 - present| UE developer in [GFA Games](https://pionergame.com) |
 | Pirate Clicker |01/09/2022 - present| Own game project for development on the Android platform. Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker)|
 | Math Content UE |18/08/2022 - present| Content with a visual representation of mathematical calculations [GitHub-Repo](https://github.com/markveligod/MathContentUE)|
 | Rising Signal | 30/04/2022 - 03/05/2022 | Game development for the game jam "Siberian Game Jam". Link to [GitHub Repo](https://github.com/markveligod/SibJam2022.git). Link to [Itch io](https://kolendar.itch.io/rising-signal).|
