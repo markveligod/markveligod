@@ -23,6 +23,7 @@ how to profile and build a game.
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
 | Pioner |17/01/2022 - present| UE developer in [GFA Games](https://pionergame.com) |
+| Dialog RPG System |16/05/2023 - present| Development of a dialog system in the style of RPG mode. [Repo GitHub](https://github.com/markveligod/RPG_DialogSystem) |
 | Quest RPG System |26/03/2023 - 13/05/2023| Development of a quest system in the style of RPG mode. [Repo GitHub](https://github.com/markveligod/QuestRPGSystem) |
 | Pirate Clicker |01/09/2022 - 29/01/2023(Left the team)| Own game project for development on the Android platform. Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker)|
 | Math Content UE |18/08/2022 - present| Content with a visual representation of mathematical calculations [GitHub-Repo](https://github.com/markveligod/MathContentUE)|
