@@ -24,6 +24,7 @@ how to profile and build a game.
 |:------------:|:------------------:|:-----------:|
 | Pioner |17/01/2022 - present| UE developer in [GFA Games. PIONER](https://pionergame.com) |
 | Dialog RPG System |16/05/2023 - present| Development of a dialog system in the style of RPG mode. [Repo GitHub](https://github.com/markveligod/RPG_DialogSystem) |
+| Asset World System |03/02/2024 - 26/02/2024| Plugin UE5 for convenient search and loading of objects [Repo GitHub](https://github.com/markveligod/AssetWorldSystem) |
 | AGT Plugin |01/05/2023 - 13/07/2023| Assembly of various functionality for the expansion of the framework Unreal Engine 5. [Repo GitHub](https://github.com/markveligod/AGT-Plugin) |
 | Quest RPG System |26/03/2023 - 13/05/2023| Development of a quest system in the style of RPG mode. [Repo GitHub](https://github.com/markveligod/QuestRPGSystem) |
 | Pirate Clicker |01/09/2022 - 29/01/2023(Left the team)| Own game project for development on the Android platform. Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker)|
