@@ -24,6 +24,7 @@ how to profile and build a game.
 |:------------:|:------------------:|:-----------:|
 | Pioner |17/01/2022 - present| UE developer in [GFA Games. PIONER](https://pionergame.com) |
 | Dialog RPG System |16/05/2023 - present| Development of a dialog system in the style of RPG mode. [Repo GitHub](https://github.com/markveligod/RPG_DialogSystem) |
+| Dialog RPG System |25/12/2024 - 26/01/2025| Development of a save system plugin for a single game. [Repo GitHub](https://github.com/markveligod/SaveGSystem) |
 | WardenSystem |09/03/2024 - 27/05/2024| The plugin is designed to replace the "Significance Manager" module. [Repo GitHub](https://github.com/markveligod/WardenSystem) |
 | Asset World System |03/02/2024 - 26/02/2024| Plugin UE5 for convenient search and loading of objects [Repo GitHub](https://github.com/markveligod/AssetWorldSystem) |
 | AGT Plugin |01/05/2023 - 13/07/2023| Assembly of various functionality for the expansion of the framework Unreal Engine 5. [Repo GitHub](https://github.com/markveligod/AGT-Plugin) |
