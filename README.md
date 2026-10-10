@@ -1,20 +1,34 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Mark, I study computer graphics and game development.  
-I can program in C++/BP under the Unreal Engine 4/5:  
-* AI: programming behavior trees, tasks, decorators, services, EQS;  
-* UMG: programming user interfaces;  
-* VFX: programming Niagara Special Effects and Particle System;  
-* Animation programming;  
-* Writing readable, maintainable, yet fast and efficient code;  
-* Mathematical magic for solving many common coding problems;  
-* Setup Unreal Engine both from stock build and from source code;  
-* Using [Jenkins](https://www.jenkins.io) to automate processes;  
-* Complex vector mathematics for working effectively in a 3D game world;  
-* Creating automation tests;  
-* Audio programming to create and use sound cues, classes and mixers.  
+# Hi, I'm Mark <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm a C++ Unreal Engine Developer with 6+ years of experience in game development.
 
-I know the base architecture of the Unreal Engine, the main methods of refactoring,
-how to profile and build a game.
+My main focus is building scalable gameplay systems, optimizing server and client performance, and developing tools that improve the team's workflow.
+
+🛠️ Core Expertise
+
+- C++ & Unreal Engine 4/5: Designing gameplay systems, scalable architectures, and maintainable, performance-oriented code.
+
+- Multiplayer & Networking: Network replication, MMO gameplay systems, server-client integration, and cross-server player progression.
+
+- Server Performance Optimization: Profiling and optimizing replication, actor processing, and gameplay systems in large open-world environments.
+
+- Gameplay Systems: Matchmaking, team-based matches, rankings, capture points, crafting, perks, quests, friends, parties, and character progression.
+
+- Unreal Editor Tools: Developing custom editor extensions, visual quest editors, procedural asset generation, and designer-friendly workflows.
+
+- World Streaming & Memory Management: Chunk management and optimization of level streaming across client and server.
+
+- AI & Procedural Generation: Modular AI behavior, procedural level generation, and automated character appearance variations.
+
+- Third-Party SDK Integration: Steam SDK, Vivox SDK, authentication, social features, and voice communication.
+
+- Build Automation & CI/CD: Jenkins pipelines, automated client/server builds, scripting, and Git workflow automation.
+
+- Debugging & Profiling: Developing custom debugging tools, performance metrics, automated tests, and technical documentation.
+
+- Code Quality: Refactoring legacy code, code reviews, architectural improvements, and development guidelines.
+
+I enjoy solving complex engineering problems, improving performance in demanding multiplayer environments, and building tools and systems that help game development teams work more efficiently.
+
 <p align="left"><img src="https://user-images.githubusercontent.com/34418187/202911326-559ae103-550c-40dc-a404-4c7ca2eeb777.gif"></p>
 
 ## Skills <img src="https://user-images.githubusercontent.com/34418187/202911895-f5e9690b-9772-4c3a-8ba6-d6ad2039e3b4.gif" width="30px">
@@ -34,7 +48,7 @@ how to profile and build a game.
 | Rising Signal | 30/04/2022 - 03/05/2022 | Game development for the game jam "Siberian Game Jam". Link to [GitHub Repo](https://github.com/markveligod/SibJam2022.git). Link to [Itch io](https://kolendar.itch.io/rising-signal).|
 | Test Your Dream |05/09/2021 - 01/03/2022(Left the team)| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as UMG developer programmer and DevOps |
 | ShooterBigger | 05/01/2022 - 23/01/2022 | First person shooter in C++. Link to [GitHub Repo](https://github.com/markveligod/ShooterBigger). [Video Demonstration](https://youtu.be/115vhrPW0No). Link to [Itch io](https://markveligod.itch.io/shooter-bigger)|
-| Pirate Puzzle |01/06/2021 - 15/12/2021| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as a solo developer programmer. Link to [Google Play Market](https://play.google.com/store/apps/details?id=com.werfestsoftware.PiratePuzzle). Link to [Itch io](https://werfest.itch.io/pirate-puzzle). Link to [Repo GitHub](https://github.com/markveligod/PiratePuzzle-Mobile-). |
+| Pirate Puzzle |01/06/2021 - 15/12/2021| A team project being developed in the studio [WerFEST Software](https://github.com/werfestsoftware) for the android platform on Unreal Engine 4. In the team as a solo developer programmer. Link to [Itch io](https://markveligod.itch.io/pirate-puzzle). Link to [Repo GitHub](https://github.com/markveligod/PiratePuzzle-Mobile-). |
 | Baby Atom | 02/10/2021 - 04/10/2021 | Game development for the game jam "Ludum Dare 49". Link to [GitHub Repo](https://github.com/markveligod/LudumDare49).  Link to [Ludum Dare](https://ldjam.com/events/ludum-dare/49/baby-atom).  Link to [Itch io](https://markveligod.itch.io/baby-atom).  |
 | Mafia Revenge | 24/04/2021 - 27/04/2021 | Game development for the game jam "Ludum Dare 48". Link to [GitHub Repo](https://github.com/markveligod/ludumedare48).  Link to  [Ludum Dare](https://ldjam.com/events/ludum-dare/48/mafia-revenge).  Link to [Itch io](https://markveligod.itch.io/mafia-revenge).  |
 | The Mad Mayor | 01/04/2021 - 04/04/2021 | Game development for the game jam "Siberian Game Jam". Link to [GitHub Repo](https://github.com/markveligod/SiberianGameJamAprill2021). Link to [Itch io](https://markveligod.itch.io/themadmayor). |
